@@ -1,6 +1,6 @@
 # Advanced-Nui-Blocker (Block nui_devtools)
 
-Its difference from other blockers is that it cannot be easily bypassed. **[Cfx.re How to Bypass Nui Blockers](https://markdownlivepreview.com/)**
+Its difference from other blockers is that it cannot be easily bypassed. **[Cfx.re How to Bypass Nui Blockers](https://forum.cfx.re/t/stop-blocking-devtools-on-your-server-and-how-to-bypass-the-block/1979857)**
 
 ## What does it detect?
 Blocking Network Request. <br>
