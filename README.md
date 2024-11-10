@@ -1,4 +1,4 @@
-# Advanced-Nui-Blocker
+# Advanced-Nui-Blocker (Block nui_devtools)
 
 Its difference from other blockers is that it cannot be easily bypassed. **[Cfx.re How to Bypass Nui Blockers](https://markdownlivepreview.com/)**
 
